@@ -1,0 +1,10 @@
+{
+  "name": "landslide-early-warning-system",
+  "version": "1.0.0",
+  "description": "Landslide Early Warning System (LEWS) — AI + IoT Platform",
+  "scripts": {
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run start",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
