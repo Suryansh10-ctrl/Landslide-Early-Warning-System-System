@@ -137,7 +137,7 @@ server.listen(3000, () => Serial.println('TerraShift IoT Ingestion Server on Por
               marginBottom: '1rem',
             }}
           >
-            How to connect physical IoT sensors to TerraShift
+            How to connect physical IoT sensors to Early Landslide Warning System
           </h2>
           <p style={{ color: '#94a3b8', fontSize: '1.05rem', lineHeight: 1.6 }}>
             Step-by-step guide to connecting real hardware (ESP32, Rain Gauges, Soil Moisture, MPU6050 Tilt Gyro) to the Node.js backend and streaming live data to this React web dashboard.
